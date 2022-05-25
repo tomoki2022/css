@@ -1,60 +1,27 @@
-.practice__btn {
-  width: 200px;
-  padding: 10px 0;
-  color: #fff;
-  border-radius: 30px;
-  background: linear-gradient(90deg, #ff5800, #8b00be);
-  text-align: center;
-  box-shadow: 0 5px 0 rgba(255, 0, 0, 0.2);
-  margin: 100px auto 0;
-  display: block;
+h1 {
+  color: darkblue;
 }
 
-.card{
-  width: 360px;
-  margin: 100px auto;
-  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+ul {
+ text-align: right;
 }
 
-.card_img img {
-  width: 100%;
+.項目 {
+  color: darkblue;
+  display: inline;
+  
 }
 
-.card__img img {
-  width: 100%;
-
-.card__content{
-  padding: 15px 25px;
-
-}
-
-.card__content-ttl {
-  font-size: 18px;
-  margin-bottom: 30px;
-  font-weight: 400;
-}
-
-.card__content-cat{
-  padding: 5px 10px;
-  background: #008888;
-  margin-bottom: 15px;
-  display: inline-block;
-  color: #fff;
-  font-size: 14px;
-}
-
-.card__content-tag {
-  font-size: 14px;
+.画像 {
   text-align: right;
 }
 
-.card__content-tag-item{
-  display: inline-block;
-  color: ;
+.笑顔 {
+  font-size: 70px;
+  
 }
 
-.card__content-tag-item--last{
-  display: inline-block;
-  margin-left: 20px;
+.青 {
+  background-color: darkblue;
 }
 
