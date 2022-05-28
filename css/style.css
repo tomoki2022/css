@@ -2,26 +2,30 @@ h1 {
   color: darkblue;
 }
 
-ul {
- text-align: right;
+
+.li {
+ text-align: right;   
+
 }
 
-.項目 {
-  color: darkblue;
-  display: inline;
-  
+li {
+
+font-size: large;
+color: darkblue;
+display: inline;
 }
 
-.画像 {
+.pic  {
   text-align: right;
+  top: 50px;
 }
 
-.笑顔 {
+
+p {
   font-size: 70px;
-  
 }
 
-.青 {
-  background-color: darkblue;
+.b {
+  background: darkblue;
 }
 
