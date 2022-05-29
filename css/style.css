@@ -35,7 +35,6 @@ img {
 P {
   font-size: 80px;
 position: absolute;
-z-index: 20;
 top: 400px
 
 }
