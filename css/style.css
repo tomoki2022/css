@@ -1,15 +1,19 @@
+header {
+  position: relative;
+}
+
 h1 {
+
   color: darkblue;
 }
 
 
 ul {
  text-align: right;   
-
 }
 
 li {
-
+padding: 8px;
 font-size: large;
 color: darkblue;
 display: inline;
@@ -17,26 +21,32 @@ position: relative;
 bottom: 50px;
 }
 
-.pic  {
+img {
   text-align: right;
   position: relative;
-  bottom: 20px;
   z-index: 10;
+  left: 700px;
+  width: 800px;
+  height: 500px;
+  top: 40px;
 }
 
 
-p {
-  font-size: 70px;
-  position: relative;
-  bottom: 240px;
+P {
+  font-size: 80px;
+position: absolute;
+z-index: 20;
+top: 400px
+
 }
 
 .b {
   background: darkblue;
   width: 1000px;
   height: 200px;
-  position: relative;
-  bottom:320px;
-  z-index: 0;
 }
 
+footer {
+  position: relative;
+  bottom: 45px;
+}
