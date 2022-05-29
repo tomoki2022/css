@@ -18,36 +18,32 @@ font-size: large;
 color: darkblue;
 display: inline;
 position: relative;
-bottom: 50px;
+bottom: 70px;
 }
 
 .pic {
   margin-left: auto;
-  width: 700px;
+  width: 750px;
   height: 400px;
 
 }
 img {
   position: relative;
   z-index: 10;
-  bottom: 10px;
+  margin-top: 20px;
+  width: 100%;
 }
 
 P {
   position: relative;
   font-size: 80px;
-  top: 50px;
-
-
+  bottom: 100px;
 }
 
 .b {
   background: darkblue;
-  width: 1000px;
+  width: 1100px;
   height: 200px;
+  margin-bottom: 50px;
 }
 
-footer {
-  position: relative;
-  bottom: 60px;
-}
