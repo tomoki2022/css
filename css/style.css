@@ -3,7 +3,7 @@ h1 {
 }
 
 
-.li {
+ul {
  text-align: right;   
 
 }
@@ -13,19 +13,30 @@ li {
 font-size: large;
 color: darkblue;
 display: inline;
+position: relative;
+bottom: 50px;
 }
 
 .pic  {
   text-align: right;
-  top: 50px;
+  position: relative;
+  bottom: 20px;
+  z-index: 10;
 }
 
 
 p {
   font-size: 70px;
+  position: relative;
+  bottom: 240px;
 }
 
 .b {
   background: darkblue;
+  width: 1000px;
+  height: 200px;
+  position: relative;
+  bottom:320px;
+  z-index: 0;
 }
 
